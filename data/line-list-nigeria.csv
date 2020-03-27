@@ -47,6 +47,20 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 46,,2020-03-25,,,,Osun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
 47,,2020-03-25,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
 48,,2020-03-25,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
-49,,2020-03-25,,,,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
-50,,2020-03-25,,,,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
+49,,2020-03-25,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
+50,,2020-03-25,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
 51,,2020-03-25,,,,Rivers,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-25,,,High risk country,,Returned from overseas travel
+52,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+53,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+54,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+55,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+56,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+57,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+58,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+59,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+60,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+61,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+62,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+63,,2020-03-26,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+64,,2020-03-26,,,,Bauchi,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
+65,,2020-03-26,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,2020-03-26,,,,,,,,
